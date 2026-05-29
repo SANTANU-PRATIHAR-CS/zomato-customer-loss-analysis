@@ -47,7 +47,7 @@ zomato-customer-loss-analysis/
 
 
 
-📊 Dashboard Pages
+##📊 Dashboard Pages
 
 1️⃣ Executive Overview
 
@@ -75,13 +75,13 @@ Final Business Conclusion
 📸 Dashboard Screenshots
 
 Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Dashboard-Screenshot/Screenshot 2026-05-30 010953.png)
 Customer Loss Analysis
-![Customer Loss Analysis](screenshots/customer_loss_analysis.png)
+![Customer Loss Analysis](Dashboard-Screenshot/Screenshot 2026-05-30 011008.png)
 Restaurant Performance
-![Restaurant Performance](screenshots/restaurant_performance.png)
+![Restaurant Performance](Dashboard-Screenshot/Screenshot 2026-05-30 011025.png)
 Final Business Insights
-![Final Business Insights](screenshots/final_business_insights.png)
+![Final Business Insights](Dashboard-Screenshot/Screenshot 2026-05-30 011041.png)
 
 
 
