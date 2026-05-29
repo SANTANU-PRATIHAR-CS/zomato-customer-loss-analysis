@@ -49,62 +49,80 @@ zomato-customer-loss-analysis/
 ---
 
 
+## 📊 Dashboard Pages
 
-##📊 Dashboard Pages
+### 1️⃣ Executive Overview
 
-1️⃣ Executive Overview
+* Total Restaurants
+* Average Ratings
+* Total Votes
+* High Risk Restaurant Analysis
+* Online Order Analysis
 
-Total Restaurants
-Average Ratings
-Total Votes
-High Risk Restaurant Analysis
-Online Order Analysis
+### 2️⃣ Customer Loss Analysis
 
-2️⃣ Customer Loss Analysis
-High Risk Locations
-Cost vs Rating Analysis
-Online Order vs Ratings
-Customer Risk Insights
+* High Risk Locations
+* Cost vs Rating Analysis
+* Online Order vs Ratings
+* Customer Risk Insights
 
-3️⃣ Restaurant Performance
-Top Restaurants by Votes
-Top Restaurant Types
-Popular vs Less Popular Restaurants
+### 3️⃣ Restaurant Performance
 
-4️⃣ Final Business Insights & Recommendations
-Key Business Insights
-Strategic Recommendations
-Final Business Conclusion
+* Top Restaurants by Votes
+* Top Restaurant Types
+* Popular vs Less Popular Restaurants
+
+### 4️⃣ Final Business Insights & Recommendations
+
+* Key Business Insights
+* Strategic Recommendations
+* Final Business Conclusion
+
 📸 Dashboard Screenshots
 
-Executive Overview
-![Executive Overview](Dashboard-Screenshot/Screenshot 2026-05-30 010953.png)
-Customer Loss Analysis
-![Customer Loss Analysis](Dashboard-Screenshot/Screenshot 2026-05-30 011008.png)
-Restaurant Performance
-![Restaurant Performance](Dashboard-Screenshot/Screenshot 2026-05-30 011025.png)
-Final Business Insights
-![Final Business Insights](Dashboard-Screenshot/Screenshot 2026-05-30 011041.png)
+## 📸 Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Customer Loss Analysis
+![Customer Loss Analysis](screenshots/customer_loss_analysis.png)
+
+### Restaurant Performance
+![Restaurant Performance](screenshots/restaurant_performance.png)
+
+### Final Business Insights
+![Final Business Insights](screenshots/final_business_insights.png)
 
 
 
-📈 Key Insights
-Restaurants without online ordering show lower customer engagement and ratings.
-High-risk restaurants are concentrated in competitive locations with lower customer satisfaction.
-Restaurants with higher pricing but lower ratings may struggle with customer retention.
-Customer ratings and votes strongly influence restaurant popularity and business performance.
+## 📈 Key Insights
 
-💡 Business Recommendations
-Improve online ordering support to increase customer engagement.
-Enhance customer experience in high-risk locations.
-Optimize pricing strategies to better match customer expectations.
-Focus on customer satisfaction and service quality improvements.
-📥 Power BI Dashboard File
+* Restaurants without online ordering show lower customer engagement and ratings.
+* High-risk restaurants are concentrated in competitive locations with lower customer satisfaction.
+* Restaurants with higher pricing but lower ratings may struggle with customer retention.
+* Customer ratings and votes strongly influence restaurant popularity and business performance.
+
+---
+
+## 💡 Business Recommendations
+
+* Improve online ordering support to increase customer engagement.
+* Enhance customer experience in high-risk locations.
+* Optimize pricing strategies to better match customer expectations.
+* Focus on customer satisfaction and service quality improvements.
+
+---
+
+## 📥 Power BI Dashboard File
 
 Due to GitHub file size limitations, the Power BI dashboard file is available here:
 
 🔗 https://drive.google.com/file/d/1kk52o0zsYcTBOf1MLcU3guSyiAY-TeGV/view?usp=drive_link
 
-🚀 Conclusion
+---
+
+## 🚀 Conclusion
 
 This project demonstrates how Business Intelligence and data-driven analysis can help identify customer retention issues, improve restaurant performance, and support strategic business decision-making using real-world restaurant data.
+
